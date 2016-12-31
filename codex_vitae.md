@@ -18,9 +18,8 @@ Side note to Ben: I tried to fork your Codex but it pulled your entire /public r
 **If you aren't Jawn:**
 
 1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
-2. Read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
-3. Check the [Changelog](https://github.com/jawnatron/public/commits/master/codex_vitae.md) for updates since you last visited.
-4. Consider creating your own Codex ([here's a template](https://github.com/busterbenson/public/blob/master/Codex.md#codex-vitae))
+2. Check the [Changelog](https://github.com/jawnatron/public/commits/master/codex_vitae.md) for updates since you last visited.
+3. Consider creating your own Codex ([here's a template](https://github.com/busterbenson/public/blob/master/Codex.md#codex-vitae))
 
 ## Table of contents
 

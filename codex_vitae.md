@@ -25,22 +25,45 @@ Side note to Ben: I tried to fork your Codex but it pulled your entire /public r
 
 #### Beliefs
 
-- [Type 1: Metabeliefs: beliefs about beliefs](#type-1-metabeliefs)
-- [Type 2: Principles: general guidelines for living](#type-2-principles)
+- [1) Metabeliefs: beliefs about beliefs](#1-metabeliefs)
+- [2) Principles: general guidelines for living](#2-principles)
+
+#### Self-care
+
+- [1) Productivity](#1-productivity)
 
 ## Beliefs
 
-### Type 1: Metabeliefs
+### 1) Metabeliefs
 Beliefs about beliefs.
 
 - It's always more interesting to be open minded.
 - It's always more interesting to play devil's advocate about beliefs at least once.
 - Try it out and come back after a while.
 
-### Type 2: Principles
+### 2) Principles
 General guidelines for living.
 
 - Never stop learning.
 - There are always many ways to accomplish something but doing it efficiently makes you feel best.
 - Focusing on a task at hand for 15 minutes to do something correctly is less taxing on the mind than having to waste 45 minutes to clean up a sloppily done task.
 - "Controlled usage is not usually fatal and abstinence is not immortality." - Sherlock Holmes
+
+## Self-care
+
+### 1) Productivity
+
+#### Beliefs
+
+- Quality > Quantity
+- Having a loose plan is better than not having one at all.
+- Early bird gets the worm. Knocking out a task early in the morning will lead to a domino effect of other tasks simply falling into place.
+
+#### Pre-decisions
+
+- I believe all productivity hacks work to an extent and varies per individual. The one that seems to be working best for me so far is a mixture of the [Pomodoro Technique](http://cirillocompany.de/pages/pomodoro-technique) with the [Ivy Lee Method](http://jamesclear.com/ivy-lee).
+- I prefer to take the time to plan something out no matter how loosely, it doesn't need to be cemented.
+
+#### Aspirations
+
+- I am aware of my weakness in wanting to say yes to every single task. I need to ruthless protect my time by saying no more. I want to be able to get easily recgonize and effectively decline things that are not in line with what I need to get done.
